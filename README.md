@@ -7,6 +7,7 @@ This readme file was generated on 2022-11-29 by Madison Schimmel.
 ## GENERAL INFORMATION
 
 Author/Principal Investigator Information:
+
 Name: Madison Schimmel
 Institution: The University of Texas at Austin
 Address: PMA 4.200 2515 SPEEDWAY AUSTIN, TX 78712
@@ -14,6 +15,7 @@ UT Campus Mail Code: S5466
 Email: mschimmel@utexas.edu
 
 ## DATA-SPECIFIC INFORMATION
+
 Title of Dataset: 2020CentralStatistics
 Data source: 
 https://www.tsl.texas.gov/ld/librarydevelopments/2021/08/31/2020-texas-public-library-statistics-available/
