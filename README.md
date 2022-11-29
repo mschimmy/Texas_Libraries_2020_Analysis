@@ -16,7 +16,6 @@ Email: mschimmel@utexas.edu
 
 ## DATA-SPECIFIC INFORMATION
 
-Title of Dataset: 2020CentralStatistics
 Data source: 
 https://www.tsl.texas.gov/ld/librarydevelopments/2021/08/31/2020-texas-public-library-statistics-available/
 
@@ -24,7 +23,14 @@ Date of data collection: 2021-09-31
 
 Geographic location of data collection: Texas, United States
 
+Title of Dataset: Texas_Lib_Statistics_2020
+Number of variables: 121
+Number of rows: 875
+Variable List: <list variable name(s), description(s), unit(s), and value labels as appropriate for each>
+Missing data codes: <list code/symbol and definition>
+
+Title of Dataset: Texas_Lib_COVID_Response_2020
 Number of variables: 25
-Number of rows: 528
+Number of rows: 530
 Variable List: <list variable name(s), description(s), unit(s), and value labels as appropriate for each>
 Missing data codes: <list code/symbol and definition>
